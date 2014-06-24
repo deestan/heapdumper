@@ -4,6 +4,8 @@ Based on [heapdump](https://github.com/bnoordhuis/node-heapdump).
 
 # Usage
 
+Do not use it.  It mirrors functionality already existing in node-headpump.  I must have been drunk.
+
 Requiring the module will activate it.  It has no functions.
 
 ```
