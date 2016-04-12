@@ -10,6 +10,6 @@
   "author": "Helge S. Holm <helge.holm@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "heapdump": "~0.2.0"
+    "heapdump": "*"
   }
 }
